@@ -62,7 +62,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-border mt-10 pt-6">
           <p className="text-center text-muted-foreground text-sm">
-            Copyright © 2024 Prescripto - All Right Reserved.
+            Copyright © 2025 Prescripto - All Right Reserved.
           </p>
         </div>
       </div>
