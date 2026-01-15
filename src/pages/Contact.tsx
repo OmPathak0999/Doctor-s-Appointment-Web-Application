@@ -25,9 +25,9 @@ const Contact = () => {
             <div>
               <h3 className="text-lg font-semibold text-muted-foreground mb-4">OUR OFFICE</h3>
               <div className="space-y-2 text-muted-foreground">
-                <p>54709 Willms Station</p>
-                <p>Suite 350, Washington, USA</p>
-                <p className="pt-2">Tel: (415) 555-0132</p>
+                <p>24 Lane Near Victoria Ground</p>
+                <p> 24 A,Esplande, Kolkata</p>
+                <p className="pt-2">Tel: +91 68886888</p>
                 <p>Email: prescripto@gmail.com</p>
               </div>
             </div>
