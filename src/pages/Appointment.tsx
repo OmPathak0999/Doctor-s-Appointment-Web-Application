@@ -15,7 +15,7 @@ const allDoctors = [
     available: true,
     experience: "4 Years",
     about: "Dr. Richard Nicolas has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.",
-    fee: 50,
+    fee: 500, // INR
   },
   {
     id: "2",
