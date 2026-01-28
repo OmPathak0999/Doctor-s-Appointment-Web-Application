@@ -25,7 +25,7 @@ const allDoctors = [
     available: true,
     experience: "6 Years",
     about: "Dr. Emma specializes in women's health and reproductive medicine, providing comprehensive care with a compassionate approach.",
-    fee: 60,
+    fee: 600,
   },
   {
     id: "3",
@@ -35,7 +35,7 @@ const allDoctors = [
     available: false,
     experience: "5 Years",
     about: "Dr. Sunita Patel is an expert in skin care and dermatological treatments, helping patients achieve healthy and radiant skin.",
-    fee: 55,
+    fee: 570,
   },
   {
     id: "4",
@@ -45,7 +45,7 @@ const allDoctors = [
     available: true,
     experience: "8 Years",
     about: "Dr. Van Lee is dedicated to children's health, providing gentle and thorough care for infants to adolescents.",
-    fee: 45,
+    fee: 400,
   },
   {
     id: "5",
@@ -55,7 +55,7 @@ const allDoctors = [
     available: true,
     experience: "10 Years",
     about: "Dr. Jennifer Leo specializes in neurological disorders, offering expert diagnosis and treatment for complex conditions.",
-    fee: 80,
+    fee: 800,
   },
 ];
 
