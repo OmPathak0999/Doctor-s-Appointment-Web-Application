@@ -14,7 +14,7 @@ const Footer = () => {
               <span className="text-xl font-bold text-foreground">Prescripto</span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed max-w-xs">
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+Prescripto is a smart doctor appointment platform that helps patients find verified doctors, check availability, and book consultations easily. With a secure and user-friendly interface, it ensures fast, reliable, and convenient access to quality healthcare services.
             </p>
           </div>
 
