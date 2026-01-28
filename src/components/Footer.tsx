@@ -50,7 +50,7 @@ Prescripto is a smart doctor appointment platform that helps patients find verif
             <h4 className="font-semibold text-foreground mb-4">GET IN TOUCH</h4>
             <ul className="space-y-3">
               <li className="text-muted-foreground text-sm">
-                +1-212-456-7890
+                +91 9128000000
               </li>
               <li className="text-muted-foreground text-sm">
                 prescripto@gmail.com
