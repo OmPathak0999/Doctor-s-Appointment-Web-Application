@@ -33,29 +33,36 @@ Version Control: Git & GitHub
 ## Application Snapshots
 Home Page
 Hero section with CTA to book appointments
+
 Clean navigation and onboarding UI
-<img src="(add your screenshot path here)" width="100%" />
+<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/HomePage.png)" width="100%" />
+
 Speciality Section
 Users can browse doctors based on categories like:
 General Physician
+
 Gynecologist
+
 Dermatologist
+
 Pediatricians
+
 Neurologist
-<img src="(add your screenshot path here)" width="100%" />
+<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Speciality%20Section.png )" width="100%" />
+
  Doctors Listing
 Displays top doctors with:
 Profile image
+
 Name & specialization
+
 Availability status
-<img src="(add your screenshot path here)" width="100%" />
-All Doctors Page
-Filter doctors by specialization
-Interactive UI for better navigation
-<img src="(add your screenshot path here)" width="100%" />
+<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Doctor's%20Listing.png)" width="100%" />
+
+
 About Page
 Explains platform purpose, vision, and value proposition
-<img src="(add your screenshot path here)" width="100%" />
+<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/About%20Page.png)" width="100%" />
 
 ## Live Demo
 **URL**: https://doctorsappointmentwebapplication.vercel.app
