@@ -48,7 +48,7 @@ Dermatologist
 Pediatricians
 
 Neurologist
-<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Speciality%20Section.png )" width="100%" />
+<img src="https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Speciality%20Section.png " width="100%" />
 
  Doctors Listing
 Displays top doctors with:
@@ -57,12 +57,12 @@ Profile image
 Name & specialization
 
 Availability status
-<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Doctor's%20Listing.png)" width="100%" />
+<img src="https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Doctor's%20Listing.png" width="100%" />
 
 
 About Page
 Explains platform purpose, vision, and value proposition
-<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/About%20Page.png)" width="100%" />
+<img src="https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/About%20Page.png" width="100%" />
 
 ## Live Demo
 **URL**: https://doctorsappointmentwebapplication.vercel.app
