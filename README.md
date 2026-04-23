@@ -51,7 +51,7 @@ Pediatricians
 
 Neurologist
 
-<img src="https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Speciality%20Section.png " width="100%" />
+<img src= "https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/Speciality%20Section.png">
 
 ## Doctors Listing
 Displays top doctors with:
