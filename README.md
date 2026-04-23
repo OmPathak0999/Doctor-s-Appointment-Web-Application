@@ -9,9 +9,13 @@ The Doctors Appointment Web Application streamlines the traditional appointment 
 
 
 ## Tech Stack
+
 Frontend: HTML, CSS, JavaScript
+
 Framework : React.js
+
 Deployment: Vercel
+
 Version Control: Git & GitHub
 
 ## Features
