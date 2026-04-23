@@ -12,7 +12,11 @@ The Doctors Appointment Web Application streamlines the traditional appointment 
 
 Frontend: HTML, CSS, JavaScript
 
+Backend: Node.js 
+
 Framework : React.js
+
+Database: MySQL
 
 Deployment: Vercel
 
