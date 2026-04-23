@@ -35,7 +35,7 @@ Home Page
 Hero section with CTA to book appointments
 
 Clean navigation and onboarding UI
-<img src="(https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/HomePage.png)" width="100%" />
+<img src="https://github.com/OmPathak0999/Doctor-s-Appointment-Web-Application/blob/main/HomePage.png" width="100%" />
 
 Speciality Section
 Users can browse doctors based on categories like:
