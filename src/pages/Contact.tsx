@@ -7,8 +7,8 @@ const Contact = () => {
       <Header />
       <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="text-center mb-12">
-          <h1 className="text-2xl font-medium text-muted-foreground">
-            CONTACT <span className="text-foreground font-semibold">US</span>
+          <h1 className="text-2xl font-bold text-muted-foreground">
+            CONTACT <span className="text-foreground font-semibold">US</span> 
           </h1>
         </div>
 
