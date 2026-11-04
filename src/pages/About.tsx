@@ -15,7 +15,7 @@ const About = () => {
         <div className="flex flex-col lg:flex-row gap-12 mb-16">
           <div className="lg:w-1/2">
             <img
-              src="https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=600&h=400&fit=crop"
+             src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=600&fit=crop"
               alt="About Prescripto"
               className="w-full rounded-lg shadow-lg"
             />
