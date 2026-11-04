@@ -15,7 +15,7 @@ const Contact = () => {
         <div className="flex flex-col lg:flex-row gap-12 items-center max-w-5xl mx-auto">
           <div className="lg:w-1/2">
             <img
-              src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?w=500&h=400&fit=crop"
+              src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=600&fit=crop%22\"
               alt="Contact us"
               className="w-full rounded-lg shadow-lg"
             />
